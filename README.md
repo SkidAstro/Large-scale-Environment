@@ -6,4 +6,8 @@ Main Length Specs.py - This program should calculate the distance to the nearest
 
 Match3D DISTANCE.py - This program should match the galaxies that have been sorted into an environment with its corresponding distance from a filament (?) 
 
-
+Program Specifications & Libraries: 
+Python Version 2.7.9 
+numpy & scipy http://www.scipy.org/scipylib/download.html
+networkx https://networkx.github.io/download.html
+.txt input/output
