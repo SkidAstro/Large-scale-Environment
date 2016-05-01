@@ -8,6 +8,9 @@ Match3D DISTANCE.py - This program should match the galaxies that have been sort
 
 Program Specifications & Libraries: 
 Python Version 2.7.9 
+
 numpy & scipy http://www.scipy.org/scipylib/download.html
+
 networkx https://networkx.github.io/download.html
+
 .txt input/output
